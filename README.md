@@ -1,4 +1,4 @@
-Project_1_InsertionSort@patika.dev
+Project_1@patika.dev
 
 # Insertion_Sort
 
