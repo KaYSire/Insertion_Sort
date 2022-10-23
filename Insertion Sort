@@ -1,11 +1,13 @@
-Project1_Insertion_Sort
+Project1_Insertion_Sort@Patika.dev
+Insertion Sort
 
-2,27,16,22,18,6
+F == [ 2,27,16,22,18,6 ]
+\\   a. Steps for Insertion Sort
+\\ 2,27,16,22,18,6
 \\ 2,6,16,22,18,27
 \\ 2,6,16,18,22,27
 
-
-\\ b. O() showcase
+\\   b. O() showcase ( big - O )
 \\ O( [n*n+1]/2 )
 \\ O( [n^2 + n]/ 2 )
 \\ O( n^2 )
